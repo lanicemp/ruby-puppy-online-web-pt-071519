@@ -32,5 +32,5 @@ class Dog
     #@@all << save  
     
   end 
-  Dog.new() 
+  #Dog.new() 
 end
